@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nest-water-tap/static/css/main.22a71e13.chunk.css",
+    "main.js": "/nest-water-tap/static/js/main.96c5fead.chunk.js",
+    "main.js.map": "/nest-water-tap/static/js/main.96c5fead.chunk.js.map",
+    "runtime-main.js": "/nest-water-tap/static/js/runtime-main.2dd652fa.js",
+    "runtime-main.js.map": "/nest-water-tap/static/js/runtime-main.2dd652fa.js.map",
+    "static/js/2.202a7b17.chunk.js": "/nest-water-tap/static/js/2.202a7b17.chunk.js",
+    "static/js/2.202a7b17.chunk.js.map": "/nest-water-tap/static/js/2.202a7b17.chunk.js.map",
+    "index.html": "/nest-water-tap/index.html",
+    "precache-manifest.7610ebd9d882e3c18b9d0c594a18d880.js": "/nest-water-tap/precache-manifest.7610ebd9d882e3c18b9d0c594a18d880.js",
+    "service-worker.js": "/nest-water-tap/service-worker.js",
+    "static/css/main.22a71e13.chunk.css.map": "/nest-water-tap/static/css/main.22a71e13.chunk.css.map",
+    "static/js/2.202a7b17.chunk.js.LICENSE": "/nest-water-tap/static/js/2.202a7b17.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dd652fa.js",
+    "static/js/2.202a7b17.chunk.js",
+    "static/css/main.22a71e13.chunk.css",
+    "static/js/main.96c5fead.chunk.js"
+  ]
+}
